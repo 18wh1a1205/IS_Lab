@@ -4,4 +4,4 @@ Write a C/JAVA program to implement the Rijndael algorithm logic
 
 
 ### Output
-![output](Caeser_cipher.jpeg)
+![output](AES.jpeg)
