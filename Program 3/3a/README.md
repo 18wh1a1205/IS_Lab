@@ -5,4 +5,4 @@ algorithms
 
 a. Caeser cipher
 ### Output
-![output](caeser cipher.png)
+![output](Caeser_cipher.jpeg)
