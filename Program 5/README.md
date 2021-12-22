@@ -4,4 +4,4 @@ Write a C/JAVA program to implement the Blowfish algorithm logic.
 
 
 ### Output
-![output](Caeser_cipher.jpeg)
+![output](Blowfish.jpeg)
