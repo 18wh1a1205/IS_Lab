@@ -2,4 +2,4 @@
 ## Aim of the Experiment 
 Calculate the message digest of a text using the SHA-1 algorithm in JAVA
 
-### Output ![output](SHA-1.jpeg)
+### Output ![output](SHA_1.jpeg)
